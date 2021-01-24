@@ -73,7 +73,7 @@
 				"keyword.function",
 				"keyword.import",
 				"keyword.control",
-				"keyword.package"
+				"keyword.package",
 			],
 			"settings": {
 				"foreground": "#ff8800"
@@ -187,8 +187,8 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"fontStyle": "",
-				"foreground": "#cccccc"
+				"fontStyle": "italic",
+				"foreground": "#fffefe"
 			}
 		},
 		{
@@ -376,7 +376,7 @@
 				"source.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#c6d5ee"
 			}
 		},
 		{
