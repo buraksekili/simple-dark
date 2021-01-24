@@ -1,10 +1,16 @@
-# README
-## This is the README for your extension "simple-dark"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# simple-dark
+![simple-dark](https://user-images.githubusercontent.com/32663655/105640259-24298580-5e8e-11eb-8c66-bf3cb719df42.png)
+My VsCode theme, mainly based on 3 colors (black, white and orange)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+## Installation
+This theme has not published on the VsCode market. If you wish to use, you can check [this](https://stackoverflow.com/questions/35165362/how-to-edit-default-dark-theme-for-visual-studio-code) stackoverflow thread.
+
+For Ubuntu;
+```bash
+cd ~/.vscode/extensions
+git clone git@github.com:buraksekili/simple-dark.git
+```
+Then, you can select simple dark from `Preferences` in VsCode.
 
 ### For more information
 * [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
