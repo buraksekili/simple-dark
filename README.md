@@ -1,5 +1,5 @@
 # simple-dark
-![simple-dark](https://user-images.githubusercontent.com/32663655/105640259-24298580-5e8e-11eb-8c66-bf3cb719df42.png)
+![new_theme](https://user-images.githubusercontent.com/32663655/105898995-2543e980-602b-11eb-9299-3b787c632f25.png)
 My VsCode theme, mainly based on 3 colors (black, white and orange)
 
 ## Installation
