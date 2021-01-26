@@ -8,16 +8,8 @@
 		"sideBarTitle.foreground": "#bbbbbb"
 	},
 	"tokenColors": [
+		
 		{
-			"name": "Import String",
-			"scope": [
-				"entity.name.import"
-			],
-			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#A7F3D0"
-			}
-		},		{
 			"name": "Comment",
 			"scope": [
 				"comment",
@@ -191,6 +183,17 @@
 				"foreground": "#fffefe"
 			}
 		},
+		{
+			"name": "Import String",
+			"scope": [
+				"entity.name.import",
+				"entity.name.function",
+			],
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#ffffff"
+			}
+		},	
 		{
 			"name": "Entity Types",
 			"scope": [
