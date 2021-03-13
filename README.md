@@ -8,7 +8,7 @@ This theme has not published on the VsCode market. If you wish to use, you can c
 For Ubuntu;
 ```bash
 cd ~/.vscode/extensions
-git clone git@github.com:buraksekili/simple-dark.git
+git clone https://github.com/buraksekili/simple-dark.git
 ```
 Then, you can select simple dark from `Preferences` in VsCode.
 
