@@ -156,7 +156,7 @@
 			"name": "String, Symbols, Inherited Class, Markup Heading",
 			"scope": [
 				"string",
-				"keyword.operator.address",
+				// "keyword.operator.address",
 				"constant.other.symbol",
 				"constant.other.key",
 				"entity.other.inherited-class",
@@ -188,11 +188,11 @@
 		{
 			"name": "Import String",
 			"scope": [
-				"entity.name.import",
+				"entity.name.import.go",
 				"entity.name.function",
 			],
 			"settings": {
-				"fontStyle": "",
+				"fontStyle": "bold",
 				"foreground": "#ffffff"
 			}
 		},	
