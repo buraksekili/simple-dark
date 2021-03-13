@@ -1,6 +1,10 @@
 # simple-dark
-![new_theme](https://user-images.githubusercontent.com/32663655/105898995-2543e980-602b-11eb-9299-3b787c632f25.png)
+
+This one is the first version of simple-dark. For newer version, check `master` branch. 
+
 My VsCode theme, mainly based on 3 colors (black, white and orange)
+
+![new_theme](https://user-images.githubusercontent.com/32663655/105898995-2543e980-602b-11eb-9299-3b787c632f25.png)
 
 ## Installation
 This theme has not published on the VsCode market. If you wish to use, you can check [this](https://stackoverflow.com/questions/35165362/how-to-edit-default-dark-theme-for-visual-studio-code) stackoverflow thread.
