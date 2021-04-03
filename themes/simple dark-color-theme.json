@@ -9,7 +9,52 @@
 		"sideBarTitle.foreground": "#bbbbbb"
 	},
 	"tokenColors": [
-		
+		// *************** JAVASCRIPT SETTINGS ***************
+		{
+			"name": "Support Functions like require in JavaScript",
+			"scope": [
+				"support.function.js",
+			],
+			"settings": {
+				"foreground": "#FFFDFD",
+				"fontStyle": ""
+			}
+		},
+		{
+			"name": "Storage Types for JavaScript",
+			"scope": [
+				"constant.numeric.decimal.js",
+				"entity.name.function.js",
+				"variable.parameter.js",
+				"variable.other.readwrite.js",
+				"variable.other.constant.js",
+				"variable.other.object.js",
+				"variable.other.property.js",
+			],
+			"settings": {
+				"foreground": "#ffffff",
+				"fontStyle": ""
+			}
+		},
+		{
+			"name": "Storage Types for JavaScript",
+			"scope": [
+				"storage.type.js",
+			],
+			"settings": {
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "async color for Javascript",
+			"scope": [
+				"storage.modifier.async.js"
+			],
+			"settings": {
+				"foreground": "#ff3755"
+			}
+		},
+		// Rest of the settings are prepared for Go
 		{
 			"name": "Comment",
 			"scope": [
